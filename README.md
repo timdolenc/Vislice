@@ -14,7 +14,8 @@ ključni del programa je:
 class...
 
 
-
-
-
 Tim Dolenc
+Projekt vislice za uvod v programiranje.
+Tukaj bo celotna koda.
+
+Avtor: Tim Dolenc
